@@ -21,5 +21,7 @@ touch " " then write new file name
 To save work on VSCode or see changes
 
 # 9 - What does the command 'git add .' do?
+It adds an update or changes to a particular file or directories
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push 
