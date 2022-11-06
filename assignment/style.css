@@ -1,27 +1,33 @@
 /* Give your page a fun background color */
-body { background-color:#F8F8FF
+body {
+    background-color: #F8F8FF
 }
-/* Make the header and footer a different color from the background */
-.header { 
-    text-align: center;
-font-family: "Lucida Console", monospace;
-color: blue;
 
-}
-.footer {
+/* Make the header and footer a different color from the background */
+header {
     text-align: center;
     font-family: "Lucida Console", monospace;
     color: blue;
-    
+
 }
+
+footer {
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+    color: blue;
+
+}
+
 /* Align the h1 containing your name in the center of the header*/
-.h1 { text-align: center;}
+h1 {
+    text-align: center;
+}
 
 /* Make your p tag a different color and italic */
 .pTag {
     font-style: italic;
     color: rgb(223, 16, 57);
-  }
+}
 
 /* Put a border around your image */
 
@@ -35,6 +41,6 @@ color: blue;
 
 /* Change the font-family of your list */
 
-.list { 
+.list {
     font-family: "Lucida Console", monospace;
- }
+}
